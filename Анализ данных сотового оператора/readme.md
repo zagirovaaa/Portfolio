@@ -1,6 +1,6 @@
 # Анализ тарифов сотового оператора #
-[ipynb](http://example.com/link](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.ipynb)
-[pdf](http://example.com/link](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.pdf)
+[ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.ipynb)
+[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.pdf)
 
 # Описание проекта #
 Требуется проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
