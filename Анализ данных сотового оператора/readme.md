@@ -1,15 +1,16 @@
 # Анализ тарифов сотового оператора #
-ipynb pdf
+[ipynb](http://example.com/link](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.ipynb)
+[pdf](http://example.com/link](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.pdf)
 
 # Описание проекта #
 Требуется проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
 
 # Навыки и инструменты #
-python
-pandas
-scipy
-numpy
-matplotlib
+- python
+- pandas
+- scipy
+- numpy
+- matplotlib
 
 # Вывод #
 Была проведена анализ данных и подсчет выручки. С помощью статистической гипотезы выбран тариф.
