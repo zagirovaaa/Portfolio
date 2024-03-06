@@ -1,5 +1,6 @@
 # А/В тесты #
-ipynb pdf
+[ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.ipynb)
+[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.pdf)
 
 # Описание проекта #
 Подготовить список гипотез для увеличения выручки интернет-магазина.
