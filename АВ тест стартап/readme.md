@@ -6,15 +6,15 @@
 Необходимо разобраться, как ведут себя пользователи мобильного приложения по продаже продуктов питания. Изучить воронку продаж, определить как и сколько пользователей доходит до покупки. Провести и изучить результаты A/A/B-эксперимента в ходе которго были изменены шрифты.
 
 # Навыки и инструменты #
-python
-pandas
-numpy
-datetime
-matplotlib
-scipy.stats
-seaborn
-plotly.graph_objects
-math
+- python
+- pandas
+- numpy
+- datetime
+- matplotlib
+- scipy.stats
+- seaborn
+- plotly.graph_objects
+- math
 
 
 # Вывод #
