@@ -1,6 +1,7 @@
 # Исследование поведения пользоветелей мобильного приложения продуктов питания #
-[ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.ipynb)
-[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.pdf)
+[ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20стартап/ab_test_mob%20.ipynb)
+[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20стартап/ab_test_mob.pdf)
+[html](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20стартап/ab_test_mob.html)
 
 # Описание проекта #
 Необходимо разобраться, как ведут себя пользователи мобильного приложения по продаже продуктов питания. Изучить воронку продаж, определить как и сколько пользователей доходит до покупки. Провести и изучить результаты A/A/B-эксперимента в ходе которго были изменены шрифты.
