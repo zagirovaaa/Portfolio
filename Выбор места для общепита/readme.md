@@ -1,6 +1,8 @@
 # Рынок заведений общественного питания Москвы #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Выбор%20места%20для%20общепита/cafe_Moscow.ipynb)
+
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Выбор%20места%20для%20общепита/cafe_Moscow.pdf)
+
 [Презентация .pptx](https://disk.yandex.ru/i/Y0-ZfdNfXzo1-w)
 
 # Описание проекта #
