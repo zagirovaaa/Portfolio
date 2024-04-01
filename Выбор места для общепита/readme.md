@@ -11,17 +11,10 @@
 # Навыки и инструменты #
 - python
 - pandas
-- numpy
-- datetime
-- matplotlib
-- scipy.stats
 - seaborn
-- plotly.graph_objects
-- math
-- plotly.express
-- folium (Map, Choropleth, Marker)
-- folium.plugins
-
+- plotly
+- визуализация данных
+- 
 # Вывод #
 Проведено исследование заведений общественного питания Москвы, даны рекомендации заказчику
 
