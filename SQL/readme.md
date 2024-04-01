@@ -5,7 +5,11 @@
 
 2. Аналитические задачи [Script2](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL_yandex/Script2.sql) [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL_yandex/Script2.pdf)
 
+
+[ER-диаграмма базы данных](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL%20Innopolis/ER_диаграмма_dvdrental.png)
+
 3. Задачи в SQL [Script3](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL%20Innopolis/Script-1.sql) [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL%20Innopolis/Script-1.pdf)
+
 Навыки
 - расчет бизнес-показателей
 - оконные функции
