@@ -1,7 +1,7 @@
 
 # Анализ бизнес показателей развлекательного приложения #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20бизнес-показателей%20приложения/advertisement.ipynb)
-[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20бизнес%20показателей%20приложения/advertisement.pdf)
+[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20бизнес-показателей%20приложения/advertisement.pdf)
 
 # Описание проекта #
 Требуется разобраться в причинах убытков компании после вложений в рекламу и помочь компании выйти в плюс.
