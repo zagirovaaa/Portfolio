@@ -10,5 +10,26 @@
 |  [Анализ программы лояльности магазина](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20программы%20лояльности/readme.md)| Анализ программы лояльности магазина | python, pandas, numpy, seaborn, plotly, Tableau, продуктовые метрики, построение дашбордов|
 | [Анализ маркетинговых показателей продуктового магазина](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20маркетинговых%20показателей/readme.md)   | Анализ данных, проверка статистических гипотез|   python, pandas, numpy |
 |[Исследование поведения пользоветелей мобильного приложения продуктов питания](https://github.com/zagirovaaa/Portfolio/tree/main/АВ%20тест%20стартап) |Анализ поведения пользователей мобильного приложения по продаже продуктов питания. Изучение воронки продаж. A/A/B-эксперимент|  python, pandas, numpy, matplotlib, scipy, seaborn, plotly, A/B тестирование, событийная аналитика, продуктовые метрики, проверка статистических гтпотез|
+|[Приоритизация гипотез и анализ А/В теста для увеличения выручки интернет-магазина](https://github.com/zagirovaaa/Portfolio/tree/main/АВ%20тест%20интернет-магазин)    | Составление списка гипотез для увеличения выручки интернет-магазина.  А/В тестирование   | python, pandas, numpy, matplotlib, scipy, A/B тестирование, проверка статистичеких гипотез   |
+| zebra stripes | are neat        |        ~~$1~~ |
 | col 2 is      | centered        |         $12   |
 | zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+
