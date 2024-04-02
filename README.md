@@ -16,20 +16,9 @@
 | [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_base_yandex) | Решение базовых задач по SQL      |     |
 | [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_yandex)  | Решение задач по SQL     |расчет бизнес-показателей, оконные функции, когортный анализ, рамки в оконных функции, дополнительные инструменты в SQL (ROWS, RANGE, UNBOUNDED,FIRST_VALUE(), LAST_VALUE(), NTH_VALUE(), EXCLUDE, скользящие значения)|
 | [Анализ маркетинговых показателей и решение задач регрессии](https://github.com/zagirovaaa/Portfolio/tree/main/Машинное%20обучение) | Машинное обучение| python, pandas, numpy, проверка статистических гипотез,  решение задач регрессии |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| [Прогнозные модели и модели кластеризации](https://github.com/zagirovaaa/Portfolio/blob/main/Прогнозные%20модели/readme.md)     | Анализ данных, тестированиеь моделей ML, оценка их качества     | python, pandas, numpy, проверка статистических гипотез, решение задач регрессии|
+| [Дашборд Tableau](https://github.com/zagirovaaa/Portfolio/tree/main/Дашборд%20Tableau) |Создание диаграммы количества покупок и покупателей по дням с возможностью выбора магазина средствами Tableau | Tableau Public |
+| [Дашборды Power BI ](https://github.com/zagirovaaa/Portfolio/tree/main/Power%20BI)   | Анализ откликов клиентов на push-уведомления, план-факт анализ выполнения показателей по регионам, сравнительный анализ продуктовых предложений      |  Power BI  |
+|  |    |     |
+
 
