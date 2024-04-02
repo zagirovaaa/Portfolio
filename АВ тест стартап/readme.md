@@ -9,12 +9,14 @@
 - python
 - pandas
 - numpy
-- datetime
 - matplotlib
-- scipy.stats
+- scipy
 - seaborn
-- plotly.graph_objects
-- math
+- plotly
+- A/B тестирование
+- событийная аналитика
+- продуктовые метрики
+- проверка статистических гтпотез
 
 
 # Вывод #
