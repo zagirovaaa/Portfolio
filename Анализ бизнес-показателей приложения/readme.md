@@ -1,5 +1,5 @@
 
-# Анализ бизнес показателей развлекательного приложения #
+# Анализ бизнес показателей развлекательного приложения. Анализ окупаемости рекламы #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20бизнес-показателей%20приложения/advertisement.ipynb)
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20бизнес-показателей%20приложения/advertisement.pdf)
 
