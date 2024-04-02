@@ -15,7 +15,7 @@
 | [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL%20Innopolis/readme.md)      | Решение базовых задач по SQL |     |
 | [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_base_yandex) | Решение базовых задач по SQL      |     |
 | [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_yandex)  | Решение задач по SQL     |расчет бизнес-показателей, оконные функции, когортный анализ, рамки в оконных функции, дополнительные инструменты в SQL (ROWS, RANGE, UNBOUNDED,FIRST_VALUE(), LAST_VALUE(), NTH_VALUE(), EXCLUDE, скользящие значения)|
-| zebra stripes | are neat        |        ~~$1~~ |
+| [Анализ маркетинговых показателей и решение задач регрессии](https://github.com/zagirovaaa/Portfolio/tree/main/Машинное%20обучение) | Машинное обучение| python, pandas, numpy, проверка статистических гипотез,  решение задач регрессии |
 | col 2 is      | centered        |         $12   |
 | zebra stripes | are neat        |        ~~$1~~ |
 | col 2 is      | centered        |         $12   |
