@@ -1,4 +1,4 @@
-# А/В тесты #
+# Приоритизация гипотез и анализ А/В теста для увеличения выручки интернет-магазина #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.ipynb)
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20интернет-магазин/ab_test.pdf)
 
@@ -9,9 +9,10 @@
 - python
 - pandas
 - numpy
-- datetime
 - matplotlib
-- scipy.stats
+- scipy
+- A/B тестирование
+- проверка статистичеких гипотез
 
 # Вывод #
 Проведена приоритизация гипотез. С помощью анализа А/В тестов, получены результаты, даны рекомендации бизнесу.
