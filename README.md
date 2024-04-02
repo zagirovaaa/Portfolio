@@ -12,9 +12,9 @@
 |[Исследование поведения пользоветелей мобильного приложения продуктов питания](https://github.com/zagirovaaa/Portfolio/tree/main/АВ%20тест%20стартап) |Анализ поведения пользователей мобильного приложения по продаже продуктов питания. Изучение воронки продаж. A/A/B-эксперимент|  python, pandas, numpy, matplotlib, scipy, seaborn, plotly, A/B тестирование, событийная аналитика, продуктовые метрики, проверка статистических гтпотез|
 |[Приоритизация гипотез и анализ А/В теста для увеличения выручки интернет-магазина](https://github.com/zagirovaaa/Portfolio/tree/main/АВ%20тест%20интернет-магазин)    | Составление списка гипотез для увеличения выручки интернет-магазина.  А/В тестирование   | python, pandas, numpy, matplotlib, scipy, A/B тестирование, проверка статистичеких гипотез   |
 | [Оценка результатов A/B-теста](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест/readme.md) | Проведение А/В теста, оценка его результатов, визуализация данных     | python, pandas, numpy, matplotlib, scipy, seaborn, plotly |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
-| col 2 is      | centered        |         $12   |
+| [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/blob/main/SQL/SQL%20Innopolis/readme.md)      | Решение базовых задач по SQL |     |
+| [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_base_yandex) | Решение базовых задач по SQL      |     |
+| [Задачи по SQL](https://github.com/zagirovaaa/Portfolio/tree/main/SQL/SQL_yandex)  | Решение задач по SQL     |расчет бизнес-показателей, оконные функции, когортный анализ, рамки в оконных функции, дополнительные инструменты в SQL (ROWS, RANGE, UNBOUNDED,FIRST_VALUE(), LAST_VALUE(), NTH_VALUE(), EXCLUDE, скользящие значения)|
 | zebra stripes | are neat        |        ~~$1~~ |
 | col 2 is      | centered        |         $12   |
 | zebra stripes | are neat        |        ~~$1~~ |
