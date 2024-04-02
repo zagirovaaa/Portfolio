@@ -1,4 +1,4 @@
-# Анализ программы лояльности #
+# Анализ программы лояльности магазина#
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20программы%20лояльности/loyality.ipynb)
 
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20программы%20лояльности/loyality.pdf)
