@@ -10,11 +10,9 @@
 - pandas
 - numpy
 - matplotlib
-- datetime 
-- scipy.stats
+- scipy
 - seaborn
-- plotly.graph_objects 
-- math
+- plotly
 
 # Вывод #
 Проведено исследование данных в соответствии с техническим заданием, анализ А/В теста.
