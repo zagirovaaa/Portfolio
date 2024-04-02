@@ -1,4 +1,4 @@
-# Анализ маркетинговых показателей #
+# Анализ маркетинговых показателей продуктового магазина #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20маркетинговых%20показателей/marketing.ipynb)
 
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20маркетинговых%20показателей/marketing.pdf)
