@@ -1,6 +1,6 @@
 # Анализ тарифов федерального оператора сотовой связи. Проверка статистических гипотез #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.ipynb)
-[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile%20operator%20tariffs.pdf)
+[pdf](https://github.com/zagirovaaa/Portfolio/blob/main/Анализ%20данных%20сотового%20оператора/mobile_operator_tariffs.pdf)
 
 # Описание проекта #
 Требуется проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
