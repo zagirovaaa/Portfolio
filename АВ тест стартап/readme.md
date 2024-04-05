@@ -1,4 +1,4 @@
-# Исследование поведения пользоветелей мобильного приложения продуктов питания #
+# Исследование поведения пользователей мобильного приложения продуктов питания #
 [ipynb](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20стартап/ab_test_mob%20.ipynb)
 [pdf](https://github.com/zagirovaaa/Portfolio/blob/main/АВ%20тест%20стартап/ab_test_mob.pdf)
 
